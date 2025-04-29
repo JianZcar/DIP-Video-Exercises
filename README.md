@@ -3,7 +3,7 @@
 ## Exercises
 - [x] Temporal Grayscale Conversion & Contrast Adjustment
 - [x] Applying a Moving Filter (e.g., Box Blur)
-- [ ] Geometric Transformation - Gradual Rotation
+- [x] Geometric Transformation - Gradual Rotation
 - [ ] Simulating a Simple "Night Vision" Effect
 - [ ] Creating a Static Vignette Effect
 
