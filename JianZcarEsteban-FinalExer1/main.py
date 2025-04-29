@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 input_path = 'input.mp4'
-output_path = 'output.mp4'
+output_path = '1_output.mp4'
 
 cap = cv2.VideoCapture(input_path)
 
@@ -55,3 +55,4 @@ while True:
 cap.release()
 out.release()
 cv2.destroyAllWindows()
+print("Done")

@@ -5,6 +5,6 @@
 - [x] Applying a Moving Filter (e.g., Box Blur)
 - [x] Geometric Transformation - Gradual Rotation
 - [X] Simulating a Simple "Night Vision" Effect
-- [ ] Creating a Static Vignette Effect
+- [x] Creating a Static Vignette Effect
 
 ## How to run
