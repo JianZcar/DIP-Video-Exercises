@@ -2,7 +2,7 @@ import cv2
 import math
 
 input_path = "input.mp4"
-output_path = "output.mp4"
+output_path = "3_output.mp4"
 final_angle = 360
 
 cap = cv2.VideoCapture(input_path)

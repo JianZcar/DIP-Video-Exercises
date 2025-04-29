@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 input_path = "input.mp4"
-output_path = "output.mp4"
+output_path = "2_output.mp4"
 kernel_size = 21
 blur_region_width = 100
 smooth_blending = True
@@ -54,4 +54,4 @@ for i in range(total_frames):
 
 cap.release()
 out.release()
-print("Done.")
+print("Done")
