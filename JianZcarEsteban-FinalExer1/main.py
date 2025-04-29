@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import math
 
-# 1. Open input video and prepare output
 input_path = 'input.mp4'
 output_path = 'output.mp4'
 
@@ -22,7 +21,6 @@ out = cv2.VideoWriter(output_path, cv2.VideoWriter_fourcc(*'mp4v'),
 
 frame_index = 0
 
-# Ask the user for the effect type
 effect_type = input("Choose the effect type ('linear' or 'pulse'): "
                     ).strip().lower()
 
